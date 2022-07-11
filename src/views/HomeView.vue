@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>My Recipes</h1>
+    <h1>Taka Recipe Menus</h1>
     <button @click="togglePopup">Add new Recipe</button>
 
     <div class="recipes">

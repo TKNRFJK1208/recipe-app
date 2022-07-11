@@ -4,8 +4,8 @@ export default createStore({
   state: {
     recipes: [
       {
-        slug: 'katsu-curry',
-        title: 'Katsu Curry',
+        slug: 'golden-curry',
+        title: 'Golden Curry',
         description:
           'A delicious curry made with chicken, potatoes, and a special sauce',
         ingredients: [
@@ -22,8 +22,8 @@ export default createStore({
         ],
       },
       {
-        slug: 'ramen-noodle-soup',
-        title: 'Ramen noodle soup',
+        slug: 'chicken-noodle',
+        title: 'Chicken noodle soup',
         description:
           'A delicious curry made with chicken, potatoes, and a special sauce',
         ingredients: [
